@@ -1,0 +1,326 @@
+﻿<ContentFile>
+	<Property>
+		<Name>Parent_GUID</Name>
+		<Value>2745f35a-1a5b-40a7-8189-51c99627e8b7</Value>
+	</Property>
+	<Property>
+		<Name>uPerform_id</Name>
+		<Value>2745f35a1a5b40a7818951c99627e8b7</Value>
+	</Property>
+	<Property>
+		<Name>template_id</Name>
+		<Value>b5c70dd40ea04f029c8cb53c5bb0d9fb</Value>
+	</Property>
+	<Property>
+		<Name>uPerform_publication</Name>
+		<Value>pubinfo0000000000000000000000000</Value>
+	</Property>
+	<Property>
+		<Name>uPerform_transform</Name>
+		<Value>transform00000000000000000000000</Value>
+	</Property>
+	<Property>
+		<Name>DocType_Name</Name>
+		<Value>uPerform</Value>
+	</Property>
+	<Property>
+		<Name>ContentLocation</Name>
+		<Value>index.htm</Value>
+	</Property>
+	<Property>
+		<Name>uPerform_content</Name>
+		<Value>index.htm</Value>
+	</Property>
+	<Property>
+		<Name>Document_Owner</Name>
+		<Value>GESBAN</Value>
+	</Property>
+	<Property>
+		<Name>Status</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Transaction_Code</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Reference_Number</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category1</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category2</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category3</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category4</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category5</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category6</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category7</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category8</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category9</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category10</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category11</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Category12</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Publication_Date</Name>
+		<Value>27 Febrero 2017</Value>
+	</Property>
+	<Property>
+		<Name>Version_Number</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Version_Name</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Roles</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Solution</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Keywords</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Comments</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Description</Name>
+		<Value>Pagos Automáticos en SAP Netweaver Portal</Value>
+	</Property>
+	<Property>
+		<Name>Copyright</Name>
+		<Value>GESBAN</Value>
+	</Property>
+	<Property>
+		<Name>Program</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Dynpro</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Msgv1</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Msgv2</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Msgv3</Name>
+		<Value />
+	</Property>
+	<Property>
+		<Name>Módulo SAP</Name>
+		<Value>FI - Gestión Financiera</Value>
+	</Property>
+	<Property>
+		<Name>Screen00</Name>
+		<Value>‪Pago automático de facturas - SAP NetWeaver Portal - Internet Explorer‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen01</Name>
+		<Value>‪Proveedores - SAP NetWeaver Portal - Internet Explorer‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen02</Name>
+		<Value>‪Documentos - SAP NetWeaver Portal - Internet Explorer‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen03</Name>
+		<Value>‪Documentos - SAP NetWeaver Portal - Internet Explorer‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen04</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen05</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen06</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen07</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen08</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen09</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen10</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen11</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen12</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen13</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen14</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen15</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen16</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen17</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen18</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen19</Name>
+		<Value>‪Pagos automáticos: Parámetros‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen20</Name>
+		<Value>‪Pagos automáticos: Log adicional‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen21</Name>
+		<Value>‪Pagos automáticos: Log adicional‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen22</Name>
+		<Value>‪Pagos automáticos: Log adicional‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen23</Name>
+		<Value>‪Pagos automáticos: Log adicional‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen24</Name>
+		<Value>‪Pagos automáticos: Log adicional‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen25</Name>
+		<Value>‪Pagos automáticos: Impresión e ISD‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen26</Name>
+		<Value>‪Selección de variantes para ZRFFOMH2H (1)‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen27</Name>
+		<Value>‪Pagos automáticos: Impresión e ISD‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen28</Name>
+		<Value>‪Pagos automáticos: Impresión e ISD‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen29</Name>
+		<Value>‪Pagos automáticos: Impresión e ISD‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen30</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen31</Name>
+		<Value>‪Planificar propuesta‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen32</Name>
+		<Value>‪Planificar propuesta‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen33</Name>
+		<Value>‪Planificar propuesta‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen34</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen35</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen36</Name>
+		<Value>‪Visualizar propuestas de pago: Pagos‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen37</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen38</Name>
+		<Value>‪Planificar pago‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen39</Name>
+		<Value>‪Pagos automáticos: Status‬</Value>
+	</Property>
+	<Property>
+		<Name>Screen40</Name>
+		<Value>Fin de la simulación</Value>
+	</Property>
+	<Property>
+		<Name>ScreenCount</Name>
+		<Value>41</Value>
+	</Property>
+</ContentFile>
